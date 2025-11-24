@@ -15,7 +15,7 @@ namespace EFCore.Data
         public DbSet<Group> Groups { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=sql.ects;Database=SchoolDBPluhin;User Id=student_05;Password=student_05;TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("Server=DESKTOP-5RGECJ1;Database=SchoolDBPluhin;User Id=v;Password=123;TrustServerCertificate=True;");
         }
 
         protected void OnModelCreating(ModelBuilder modelBuilder)

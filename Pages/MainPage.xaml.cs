@@ -55,5 +55,10 @@ namespace EFCore.Pages
                 service.Remove(student);
             }
         }
+
+        public void GoGroup(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new GroupeList());
+        }
     }
 }

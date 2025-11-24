@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\pages\\groupelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:pages\\groupelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\pages\\groupelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:pages\\groupelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\pages\\groupform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:pages\\groupform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\pages\\groupform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:pages\\groupform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\service\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:service\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Migrations\\20251124162112_HDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251124162112_HDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\pages\\studentformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:pages\\studentformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\migrations\\20251124062544_addtablegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:migrations\\20251124062544_addtablegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\observableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:observableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\pages\\studentformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:pages\\studentformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\efcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:efcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\efcore_primer\\migrations\\20251124055841_addtablepassportandhasonerelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB24C320-3964-4730-A0A8-FADBCEC15187}|EFCore.csproj|solutionrelative:migrations\\20251124055841_addtablepassportandhasonerelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\GroupForm.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\GroupForm.xaml.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\GroupForm.xaml.cs",
+              "RelativeToolTip": "Pages\\GroupForm.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:42:39.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupForm.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\GroupForm.xaml",
+              "RelativeDocumentMoniker": "Pages\\GroupForm.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\GroupForm.xaml",
+              "RelativeToolTip": "Pages\\GroupForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T16:34:05.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupeList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\GroupeList.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\GroupeList.xaml.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\GroupeList.xaml.cs",
+              "RelativeToolTip": "Pages\\GroupeList.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:26:36.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupeList.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\GroupeList.xaml",
+              "RelativeDocumentMoniker": "Pages\\GroupeList.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\GroupeList.xaml",
+              "RelativeToolTip": "Pages\\GroupeList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T16:23:31.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251124162112_HDB.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Migrations\\20251124162112_HDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251124162112_HDB.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Migrations\\20251124162112_HDB.cs",
+              "RelativeToolTip": "Migrations\\20251124162112_HDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:21:12.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Service\\GroupService.cs",
+              "RelativeDocumentMoniker": "Service\\GroupService.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Service\\GroupService.cs",
+              "RelativeToolTip": "Service\\GroupService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:31:35.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251124062544_AddTableGroup.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Migrations\\20251124062544_AddTableGroup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251124062544_AddTableGroup.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Migrations\\20251124062544_AddTableGroup.cs",
+              "RelativeToolTip": "Migrations\\20251124062544_AddTableGroup.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:25:44.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Passport.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Passport.cs",
+              "RelativeDocumentMoniker": "Passport.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Passport.cs",
+              "RelativeToolTip": "Passport.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAtwCoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T05:48:03.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ObservableService.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\ObservableService.cs",
+              "RelativeDocumentMoniker": "ObservableService.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\ObservableService.cs",
+              "RelativeToolTip": "ObservableService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:42:29.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentService.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\StudentService.cs",
+              "RelativeToolTip": "StudentService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswCoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:03:48.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\StudentFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\StudentFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\StudentFormPage.xaml.cs",
+              "RelativeToolTip": "Pages\\StudentFormPage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:57:08.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:56:12.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EFCore",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\EFCore.csproj",
+              "RelativeDocumentMoniker": "EFCore.csproj",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\EFCore.csproj",
+              "RelativeToolTip": "EFCore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T08:53:03.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\StudentFormPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\StudentFormPage.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\StudentFormPage.xaml",
+              "RelativeToolTip": "Pages\\StudentFormPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T08:51:40.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T08:45:22.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:37:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:28:13.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseDbService.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Service\\BaseDbService.cs",
+              "RelativeDocumentMoniker": "Service\\BaseDbService.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Service\\BaseDbService.cs",
+              "RelativeToolTip": "Service\\BaseDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:59:42.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251124055841_AddTablePassportAndHasOneRelation.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Migrations\\20251124055841_AddTablePassportAndHasOneRelation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251124055841_AddTablePassportAndHasOneRelation.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\Migrations\\20251124055841_AddTablePassportAndHasOneRelation.cs",
+              "RelativeToolTip": "Migrations\\20251124055841_AddTablePassportAndHasOneRelation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T05:58:42.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T08:16:26.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EFCore_primer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:16:24.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

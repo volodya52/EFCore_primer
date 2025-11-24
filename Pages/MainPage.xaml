@@ -25,6 +25,7 @@
         <StackPanel Orientation="Horizontal">
             <Button Click="go_form">Добавить</Button>
             <Button Click="remove">Удалить</Button>
+            <Button Click="GoGroup">Группы</Button>
         </StackPanel>
 
         <ListView Grid.Row="1"

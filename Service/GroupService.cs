@@ -34,5 +34,31 @@ namespace EFCore.Service
             if (Commit() > 0)
                 Groups.Remove(group);
         }
+
+        public void Add(Group group)
+        {
+            var _group = new Group
+            {
+                Title = group.Title,
+            };
+            _db.Add<Group>(group);
+            Commit();
+            Groups.Add(_group);
+        }
+
+        public void LoadRelation(Group group, string relation)
+        {
+            var entry = _db.Entry(group);
+            var navigation = entry.Metadata.FindNavigation(relation)
+                ?? throw new InvalidOperationException($"Navigation '{relation}' not found");
+            if (navigation.IsCollection)
+            {
+                entry.Collection(relation).Load();
+            }
+            else
+            {
+                entry.Reference(relation).Load();
+            }
+        }
     }
 }
