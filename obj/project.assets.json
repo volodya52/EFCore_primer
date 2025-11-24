@@ -4728,11 +4728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\st310-05\\Desktop\\lll\\EFCore\\EFCore.csproj",
+      "projectUniqueName": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EFCore.csproj",
       "projectName": "EFCore",
-      "projectPath": "C:\\Users\\st310-05\\Desktop\\lll\\EFCore\\EFCore.csproj",
+      "projectPath": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EFCore.csproj",
       "packagesPath": "C:\\Users\\st310-05\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\st310-05\\Desktop\\lll\\EFCore\\obj\\",
+      "outputPath": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

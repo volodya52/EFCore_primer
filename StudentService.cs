@@ -1,5 +1,6 @@
 ﻿using EFCore.Data;
 using EFCore.Service;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -25,7 +26,10 @@ namespace EFCore
                 FirstName = student.FirstName,
                 LastName = student.LastName,
                 MiddleName = student.MiddleName,
-                Birthday = student.Birthday
+                Birthday = student.Birthday,
+                Passport=student.Passport,
+                GroupId=student.GroupId,
+                Group=student.Group
             };
             _db.Add<Student>(_student);
             Commit( );
@@ -34,7 +38,10 @@ namespace EFCore
 
         public void GetAll ()
         {
-            var students = _db.Students.ToList( );
+            var students = _db.Students
+                .Include(s => s.Passport)
+                .Include(s=>s.Group)
+                .ToList( );
             Students.Clear( );
             foreach(var student in students)
             {

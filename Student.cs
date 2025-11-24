@@ -13,6 +13,10 @@ namespace EFCore
         private string _middleName;
         private string _lastName;
         private DateTime _birthday;
+        private Passport _passport;
+        private int _group_Id;
+        private Group _group;
+
         public int Id 
         {
             get => _id;
@@ -37,6 +41,24 @@ namespace EFCore
         {
             get => _birthday;
             set => SetProperty(ref _birthday, value);
+        }
+
+        public Passport Passport
+        {
+            get => _passport;
+            set => SetProperty(ref _passport, value);
+        }
+
+        public int GroupId
+        {
+            get => _group_Id;
+            set => SetProperty(ref _group_Id, value);
+        }
+
+        public Group Group
+        {
+            get => _group;
+            set => SetProperty(ref _group, value);
         }
     }
 }

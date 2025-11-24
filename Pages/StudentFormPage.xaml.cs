@@ -31,6 +31,8 @@ namespace EFCore.Pages
                 _student = _editStudent;
                 isEdit = true;
             }
+            if (_student.Passport == null)
+                _student.Passport = new( );
             DataContext = _student;
 
         }

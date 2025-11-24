@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P5YAcjx3+eIdbWfZcdV8Wdow/yT/NtlpJ8rNx8aayhN98eCUpr26wbFFWnjJWUuW2rIER9HKA41LZD/PIf0lfw==",
+  "dgSpecHash": "fSmNZQiMOBuijaoC453cfUHXAmJY7pjXuQEUnxg7IZJttmQoZ3FGkkbASGsgSMH5TA5/udl6/Xb/9y2+0mNnVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\st310-05\\Desktop\\lll\\EFCore\\EFCore.csproj",
+  "projectFilePath": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\st310-05\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\st310-05\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
