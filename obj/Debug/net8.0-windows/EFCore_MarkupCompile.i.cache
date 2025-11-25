@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\pluhi\OneDrive\Desktop\Гариев\EFCore_primer\obj\Debug\net8.0-windows\
+C:\Users\st310-05\Documents\lll\EFCore_primer\obj\Debug\net8.0-windows\
 EFCore
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\pluhi\OneDrive\Desktop\Гариев\EFCore_primer\App.xaml
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\st310-05\Documents\lll\EFCore_primer\App.xaml
 51791747578
 
-27238405524
-2281222913544
+29122425991
+228-1210290089
 MainWindow.xaml;Pages\GroupeList.xaml;Pages\GroupForm.xaml;Pages\MainPage.xaml;Pages\StudentFormPage.xaml;
 
 False
