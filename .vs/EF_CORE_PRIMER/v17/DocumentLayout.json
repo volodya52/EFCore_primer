@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\ef_core_primer\\ef_core_primer\\pages\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\pages\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\ef_core_primer\\ef_core_primer\\pages\\coursepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\pages\\coursepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\ef_core_primer\\ef_core_primer\\pages\\coursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\pages\\coursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\CoursePage.xaml.cs",
+              "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Pages\\CoursePage.xaml.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\CoursePage.xaml.cs",
+              "RelativeToolTip": "EF_CORE_PRIMER\\Pages\\CoursePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:48:34.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursePage.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\CoursePage.xaml",
+              "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Pages\\CoursePage.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\CoursePage.xaml",
+              "RelativeToolTip": "EF_CORE_PRIMER\\Pages\\CoursePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-01T16:48:32.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCourse.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\AddCourse.xaml",
+              "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Pages\\AddCourse.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\AddCourse.xaml",
+              "RelativeToolTip": "EF_CORE_PRIMER\\Pages\\AddCourse.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-01T16:47:41.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
