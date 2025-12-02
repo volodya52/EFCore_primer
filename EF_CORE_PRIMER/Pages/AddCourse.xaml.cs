@@ -19,13 +19,17 @@ namespace EFCore.Pages
     /// <summary>
     /// Логика взаимодействия для AddCourse.xaml
     /// </summary>
-    public partial class AddCourse : Page
+    public partial class AddCourse :Page
     {
-        public CourseStudentService service;
+        public CourseService service { get; set; } = new( );
 
-        public GroupService groupService;
+        public Student CurrentStudent { get; set; } = new( );
 
-        public Student CurrentStudent { get; set; } = new();
+        public Course? current { get; set; } = null;
+
+        public CourseStudentService service2 { get; set; } = new( );
+
+        public CourseStudent courseStudent { get; set; } = new( );
 
         public AddCourse(Student student)
         {
@@ -37,6 +41,19 @@ namespace EFCore.Pages
         public void Back(object sender, EventArgs e)
         {
             NavigationService.GoBack();
+        }
+
+        public void Add(object sender, RoutedEventArgs e)
+        {
+            if (current == null)
+            {
+                MessageBox.Show("Выберите курс для добавления");
+            }
+            else
+            {
+                service2.Add(courseStudent);
+                MessageBox.Show("Добавлено");
+            }
         }
     }
 }

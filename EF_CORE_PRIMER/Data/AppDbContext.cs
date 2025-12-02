@@ -17,7 +17,7 @@ namespace EFCore.Data
         public DbSet<CourseStudent> CoursesStudents { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-5RGECJ1;Database=SchoolDBPluhin;User Id=v;Password=123;TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("Server=sql.ects;Database=SchoolDBPluhin;User Id=student_05;Password=student_05;TrustServerCertificate=True;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

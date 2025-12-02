@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\",
+  "WorkspaceRootPath": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\ef_core_primer\\ef_core_primer\\pages\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\st310-05\\documents\\lll\\efcore_primer\\ef_core_primer\\pages\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\pages\\addcourse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\st310-05\\documents\\lll\\efcore_primer\\ef_core_primer\\pages\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\pages\\addcourse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\ef_core_primer\\ef_core_primer\\pages\\coursepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\pages\\coursepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\st310-05\\documents\\lll\\efcore_primer\\ef_core_primer\\pages\\studentformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\pages\\studentformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\pluhi\\onedrive\\desktop\\\u0433\u0430\u0440\u0438\u0435\u0432\\ef_core_primer\\ef_core_primer\\pages\\coursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\pages\\coursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\st310-05\\documents\\lll\\efcore_primer\\ef_core_primer\\pages\\studentformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\pages\\studentformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\st310-05\\documents\\lll\\efcore_primer\\ef_core_primer\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\st310-05\\documents\\lll\\efcore_primer\\ef_core_primer\\pages\\courseedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\pages\\courseedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|c:\\users\\st310-05\\documents\\lll\\efcore_primer\\ef_core_primer\\pages\\courseedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07866DAE-B371-469D-A429-593F2A0CF9F5}|EF_CORE_PRIMER\\EF_CORE_PRIMER.csproj|solutionrelative:ef_core_primer\\pages\\courseedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +38,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CoursePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\CoursePage.xaml.cs",
-              "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Pages\\CoursePage.xaml.cs",
-              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\CoursePage.xaml.cs",
-              "RelativeToolTip": "EF_CORE_PRIMER\\Pages\\CoursePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Course.cs",
+              "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Course.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Course.cs",
+              "RelativeToolTip": "EF_CORE_PRIMER\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T16:48:34.698Z",
+              "WhenOpened": "2025-12-02T08:18:14.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CoursePage.xaml",
-              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\CoursePage.xaml",
-              "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Pages\\CoursePage.xaml",
-              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\CoursePage.xaml",
-              "RelativeToolTip": "EF_CORE_PRIMER\\Pages\\CoursePage.xaml",
+              "DocumentIndex": 3,
+              "Title": "StudentFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\StudentFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Pages\\StudentFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\StudentFormPage.xaml.cs",
+              "RelativeToolTip": "EF_CORE_PRIMER\\Pages\\StudentFormPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:10:28.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\StudentFormPage.xaml",
+              "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Pages\\StudentFormPage.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\StudentFormPage.xaml",
+              "RelativeToolTip": "EF_CORE_PRIMER\\Pages\\StudentFormPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-01T16:48:32.916Z",
+              "WhenOpened": "2025-12-02T08:10:19.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\CourseEdit.xaml.cs",
+              "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Pages\\CourseEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\CourseEdit.xaml.cs",
+              "RelativeToolTip": "EF_CORE_PRIMER\\Pages\\CourseEdit.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:00:09.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\CourseEdit.xaml",
+              "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Pages\\CourseEdit.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\CourseEdit.xaml",
+              "RelativeToolTip": "EF_CORE_PRIMER\\Pages\\CourseEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-02T08:00:07.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddCourse.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\AddCourse.xaml.cs",
+              "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Pages\\AddCourse.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\AddCourse.xaml.cs",
+              "RelativeToolTip": "EF_CORE_PRIMER\\Pages\\AddCourse.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:37:57.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AddCourse.xaml",
-              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\AddCourse.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\AddCourse.xaml",
               "RelativeDocumentMoniker": "EF_CORE_PRIMER\\Pages\\AddCourse.xaml",
-              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\\u0413\u0430\u0440\u0438\u0435\u0432\\EF_CORE_PRIMER\\EF_CORE_PRIMER\\Pages\\AddCourse.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Documents\\lll\\EFCore_primer\\EF_CORE_PRIMER\\Pages\\AddCourse.xaml",
               "RelativeToolTip": "EF_CORE_PRIMER\\Pages\\AddCourse.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-01T16:47:41.073Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1786,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

@@ -4,7 +4,7 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:EFCore.Pages" xmlns:efcore="clr-namespace:EFCore" 
-      d:DataContext="{d:DesignInstance Type=efcore:CourseStudent}"
+     
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="AddCourse">
@@ -29,28 +29,26 @@
             <StackPanel>
                 <Label>Дата начала курса</Label>
                 <StackPanel>
-                    <DatePicker SelectedDate="{Binding service.StartDate}"/>
+                    <DatePicker SelectedDate="{Binding StartDate}"/>
                 </StackPanel>
                 <Label>Дата завершения курса</Label>
                 <StackPanel>
-                    <DatePicker SelectedDate="{Binding service.EndDate}"/>
+                    <DatePicker SelectedDate="{Binding EndDate}"/>
                 </StackPanel>
-                <Button>Записаться на курс</Button>
+                <Button Click="Add">Записаться на курс</Button>
             </StackPanel>
-            
         </StackPanel>
 
         <ListView Grid.Column="1"
-                 ItemsSource="{Binding service.Course}"
-                  >
+                 ItemsSource="{Binding service.Courses}"
+                 SelectedItem="{Binding current}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <TextBlock>
-                        <Run Text="{Binding service.Title}"/>
+                        <Run Text="{Binding Title}"/>
                     </TextBlock>
                 </DataTemplate>
             </ListView.ItemTemplate>
-            
         </ListView>
     </Grid>
 </Page>
